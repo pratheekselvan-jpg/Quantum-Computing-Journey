@@ -1,4 +1,4 @@
-# My Quantum Computing Journey 🚀
+# My Quantum Computing Journey 
 This repository tracks my progress as a Quantum Algorithm/Software Engineer (QASE).
 
 ## Project 1: The Bell State (Entanglement)
